@@ -1,0 +1,36 @@
+form#inicio {
+    width: 100%;
+    max-width: 1000px;
+    margin: 20px auto 0;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    
+    
+  }
+
+  form#inicio body{
+
+    justify-content: center;
+  }
+
+  form#inicio body > img{
+
+    width: 100%;
+  }
+
+  form#inicio div {
+    border-width: 2px solid rgb(128, 44, 44);
+  }
+  form#inicio  div > img {
+   margin-top: 100px;
+    width: 100px;
+    height: 50px;
+    
+  }

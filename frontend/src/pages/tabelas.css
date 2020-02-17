@@ -1,0 +1,68 @@
+
+section#post-table {
+  width: 100%;
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 0 30px;
+  
+}
+section#post-table article{
+  background: #fff;
+  border: 1px solid  rgba(8, 202, 83, 0.667);
+  margin-top: 30px;
+  border-radius: 12px;
+  padding: 10px
+
+}
+
+body {
+    font: 75%/1.6 "Myriad Pro", Frutiger, "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", Verdana, sans-serif;
+  }
+  table {
+    border-collapse: collapse;
+    width: 50em;
+    border: 1px solid  rgb(203, 207, 203);
+    width: 100%;
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 30px;
+    margin-top: 10px;
+    
+  }
+  section article div {
+    align-content: center;
+    width: 200px;
+    
+  }
+ 
+  thead {
+    background: #ccc url(https://www.devfuria.com.br/html-css/tabelas/bar.gif) repeat-x left center;
+    border-top: 1px solid #a5a5a5;
+    border-bottom: 1px solid #a5a5a5;
+   
+    
+  }
+  tr:hover {
+    background-color:#3d80df;
+    color: rgb(47, 221, 41);
+  }
+  thead tr:hover {
+    background-color: transparent;
+    color: inherit;
+  }
+  tr:nth-child(even) {
+      background-color: #edf5ff;
+  }
+  th {
+    font-weight: normal;
+    text-align: left;
+    
+  }
+  th, td {
+    padding: 0.1em 1em;
+    
+  }
+   table :first-child{
+      max-width: 200px;
+      
+  }

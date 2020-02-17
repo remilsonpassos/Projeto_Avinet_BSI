@@ -1,0 +1,67 @@
+
+section#post-list {
+    width: 100%;
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+section#post-list article{
+    background: #fff;
+    border: 1px solid  rgba(8, 202, 83, 0.667);
+    margin-top: 30px;
+
+}
+section#post-list article header{
+    padding: 15px;
+
+    display: flex;
+    
+    justify-content: space-between;
+   
+}
+section#post-list article header div strong{
+  margin-bottom: 5px
+    
+   
+}
+
+section#post-list article header .user-info{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+section#post-list article header p{
+   margin-bottom: 3px;
+   font-size: 15px
+   
+}
+
+section#post-list article header .user-info span{
+    font-size: 20px;
+    margin: 10
+    
+}
+
+
+section#post-list article > img {
+    width: 100%;
+}
+
+section#post-list article footer{
+    padding: 20px;
+}
+section#post-list article footer p span{
+    padding: 20px;
+    flex-direction: column;
+}
+section#post-list article footer div{
+    border: 1px solid   rgba(8, 202, 83, 0.667);
+    margin-bottom: 10px;
+    width: 475px
+}
+
+section#post-list article footer p{
+    margin-bottom: 5px
+}
