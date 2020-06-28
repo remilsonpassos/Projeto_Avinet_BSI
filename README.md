@@ -1,9 +1,6 @@
 # Projeto_Avinet_BSI
 Pequeno projeto para Avicultura de postura da disciplina de Engenharia de software UFRA 2019.   
-Tecnologias uilizadas: ReactJS, NodeJS, Visual Studio Code, mongoDB.  
-NodeJS e yarn? segue comandos: 
-"yarn dev" para subir o backend;
-"yarn start" para rodar o frontend;
+Tecnologias uilizadas: ReactJS, NodeJS, Visual Studio Code, mongoDB.
 
 Obs.:Falta um pouco de style e mais funcionalidades, mas está bem intuitivo e o objetivo "alcançado" seria tirar um 10 xD.
 
